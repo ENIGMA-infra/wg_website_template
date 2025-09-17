@@ -2,24 +2,17 @@
 
 An overview website of projects, progress, and documentation
 
+## How to work with the website
+
 To edit an existing page,
 go into the `docs/` folder and edit the corresponding markdown file.
 To add a new page,
 add a new entry in the `nav` section of the `mkdocs.yml` file,
 and then create a new markdown file in the `docs/` folder.
 
-To edit or make a blog post,
-add a new markdown file in the `docs/blog/posts` folder.
-A blog post must have a markdown header with a date like so:
+# First time setup 
 
-```markdown
----
-date: 2025-08-29
----
-```
-
-It can also have other types of metadata.
-See the [mkdocs material docs for more information](https://squidfunk.github.io/mkdocs-material/tutorials/blogs/basic/?h=blog#basic-blogs).
+## For editing the website locally
 
 To locally build the site,
 you need a python local environment:
@@ -40,3 +33,10 @@ mkdocs serve
 
 and open your browser at the URL shown in the terminal.
 Typically, it is `http://localhost:8000`.
+
+## For publishing the website
+
+At the top of your repo go to `Settings > Pages`. In the section "Build and deployment",
+go to the "Branch" section, clikc the dropdown that says "None", and select the `gh-pages`
+branch and then click the "Save" button.
+You can learn more about this step at the [Github documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch).

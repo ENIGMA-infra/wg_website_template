@@ -14,7 +14,7 @@ COPY THIS TO ADD ANOTHER PERSON:
  -->
 <div class="grid cards" markdown>
 
-- ![Paul](/assets/images/paul.jpeg){ width="80" } **[Paul Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/)**  
+- ![Paul](../assets/profile_pictures/paul.jpeg){ width="80" } **[Paul Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/)**  
   University of Southern California, USA
 
 </div>
