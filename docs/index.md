@@ -1,6 +1,6 @@
 # Welcome to the ENIGMA-PD documentation page
 
-This site provides information on the XYZ WG team, ongoing and completed projects, and useful resources.  
+The [ENIGMA Consortium](https://enigma.ini.usc.edu/about-2/) is an international effort by leaders worldwide. This site provides information on the XYZ WG team, ongoing and completed projects, and useful resources.  
 
 <div class="grid cards" markdown>
 
@@ -12,16 +12,12 @@ This site provides information on the XYZ WG team, ongoing and completed project
 
     [:octicons-arrow-right-24: Overview of member sites](working_group/existing_sites.md)
 
+- :material-typewriter:{ .lg .middle } __Projects__
+
+    [:octicons-arrow-right-24: Ongoing and completed projects](projects/propose_a_project.md)
+    
 - :material-brain:{ .lg .middle } __Resources__
 
-    [:octicons-arrow-right-24: Current pipelines and resources](resources/overview.md)
-
-- :material-typewriter:{ .lg .middle } __Ongoing Projects__
-
-    [:octicons-arrow-right-24: Ongoing Projects](ongoing_projects/overview.md)
-
-- :material-typewriter:{ .lg .middle } __Completed Projects__
-
-    [:octicons-arrow-right-24: Completed Projects](completed_projects/overview.md)
+    [:octicons-arrow-right-24: Helpful guides and tools](resources/how_to_guides/overview.md)
 
 </div>

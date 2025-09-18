@@ -16,19 +16,16 @@ nav:
   - About XYZ WG:    
     - Core team: working_group/team.md
     - Sites: working_group/existing_sites.md
-    - Information for new sites: working_group/new_sites.md
+    - Join us: working_group/join_us.md
     
-  - Ongoing Projects: 
-    - Overview: ongoing_projects/overview.md
-    - Example Project: ongoing_projects/example_active_project.md
+  - Projects:    
+    - Ongoing: projects/ongoing/overview.md
+    - Completed: projects/completed/overview.md
+    - Propose a project: projects/propose_a_project.md
 
-  - Completed Projects: 
-    - Overview: completed_projects/overview.md
-    - Example Completed Project: completed_projects/example_completed_project.md
-
-
-  - Resources: 
-    - Overview: resources/overview.md
+  - Resources:
+    - How-to guides: resources/how_to_guides/overview.md
+    - Tools: resources/tools/overview.md
 
 
 markdown_extensions:

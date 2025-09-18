@@ -1,3 +1,3 @@
-# Overview of ongoing projects in your WG
+# Overview of ongoing projects
 
 - [Example Project](./example_active_project.md)

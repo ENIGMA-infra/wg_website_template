@@ -17,4 +17,7 @@ COPY THIS TO ADD ANOTHER PERSON:
 - ![Paul](../assets/profile_pictures/paul.jpeg){ width="80" } **[Paul Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/)**  
   University of Southern California, USA
 
+- ![Neda](../assets/profile_pictures/neda.jpeg){ width="80" } **[Neda Jahanshad](https://keck.usc.edu/faculty-search/neda-jahanshad/)**  
+  University of Southern California, USA
+
 </div>
